@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HealthAlarm</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">HealthAlarm</string>
+    <string name="nav_header_subtitle">Użytkownik zalogowany</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ustawienia</string>
+
+    <string name="menu_home">Strona główna</string>
+    <string name="menu_gallery">Wizyty</string>
+    <string name="menu_slideshow">Historia chorób</string>
+
+    <string name="home_second">Home Second</string>
+</resources>
