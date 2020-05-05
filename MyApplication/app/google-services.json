@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "503093162724",
+    "firebase_url": "https://healthalarm-3b4dd.firebaseio.com",
+    "project_id": "healthalarm-3b4dd",
+    "storage_bucket": "healthalarm-3b4dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503093162724:android:595495b511f5ad92a232f1",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503093162724-2e00e8e13aq86midl99lfo0509p2h4tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC78xYoP4MipSGGMMNj8m8Y5KAF4yENMGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503093162724-2e00e8e13aq86midl99lfo0509p2h4tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
